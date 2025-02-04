@@ -5,8 +5,8 @@ FruitsToReset = {  -- << Fruits it'll reset with, so you can put these fruits in
     "Quake-Quake",
     "Love-Love",
     "Magma-Magma",
-    "Ghost-Ghost",
-    "Barrier-Barrier"
+    "Sound-Sound",
+    "Spider-Spider"
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/lelel22f/script/refs/heads/main/note"))()
